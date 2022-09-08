@@ -1,0 +1,17 @@
+SHA1 - encriptação de 40 dígitos
+
+
+Comandos Git:
+	git init -> cria um repositório
+	git add
+	git commit -m "texto" -> commit
+	git status -> status do arquivo
+	git push origin master
+	git clone
+
+	dir (ou ls) -a = lista pastas ocultas
+
+Fases do git
+
+- Untracked (antes do git add) -> Staged (depois do git add) -> Unmodified (depois do git commit)
+- Quando faz alteração:  Fica modified, até fazer o add e voltar para stage
